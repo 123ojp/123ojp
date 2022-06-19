@@ -5,6 +5,9 @@
 ## ASN
 - [AS208223](https://bgp.he.net/AS208223#_graph6)
 
+## Bug Bounty
+- [Bugcrowd](https://bugcrowd.com/123ojp)
+
 ## 各種連結
 - [資安簡報](https://slides.foxo.tw/)
 - [自架CTF](https://ctf.foxo.tw/challenges)
