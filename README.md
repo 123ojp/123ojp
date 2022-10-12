@@ -1,8 +1,8 @@
 # 這裡是 `123ojp`
 ## 技能點
-`CTFer`,`web狗`,`Python`,`ASN`
+`CTFer`,`web狗`,`Python`,`BGPlayer`
 
-## ASN
+## BGP
 - [AS208223](https://bgp.he.net/AS208223#_graph6)
 
 ## Bug Bounty
