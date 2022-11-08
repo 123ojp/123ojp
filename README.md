@@ -3,7 +3,11 @@
 `CTFer`,`web狗`,`Python`,`BGPlayer`
 
 ## BGP
-- [AS208223](https://bgp.he.net/AS208223#_graph6)
+- [AS208223](https://as208223.eu.org)
+- [HE.bgp](https://bgp.he.net/AS208223#_graph6)
+- [PeeringDB](https://www.peeringdb.com/net/29521)
+- [Looking Glass](https://lg.as208223.eu.org/)
+- [Status Page](https://status.as208223.eu.org/)
 
 ## Bug Bounty
 - [Bugcrowd](https://bugcrowd.com/123ojp)
