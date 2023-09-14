@@ -11,6 +11,7 @@
 
 ## Bug Bounty
 - [Bugcrowd](https://bugcrowd.com/123ojp)
+- CVE-2023-35971
 
 ## 各種連結
 - [資安簡報](https://slides.foxo.tw/)
