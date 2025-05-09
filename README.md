@@ -2,9 +2,13 @@
 ## 技能點
 `CTFer`,`web狗`,`Python`,`BGPlayer`
 
+## Speech
+- From Spoofing to Tunneling: New Red Team's Networking Techniques for Initial Access and Evasion
+  - [Black Hat USA 2025](https://www.blackhat.com/us-25/briefings/schedule/#from-spoofing-to-tunneling-new-red-teams-networking-techniques-for-initial-access-and-evasion-44678)
+
 ## BGP
 - [AS208223](https://as208223.eu.org)
-- [HE.bgp](https://bgp.he.net/AS208223#_graph6)
+- [BGP.tools](https://bgp.tools/as/208223#asinfo)
 - [PeeringDB](https://www.peeringdb.com/net/29521)
 - [Looking Glass](https://lg.as208223.eu.org/)
 - [Status Page](https://status.as208223.eu.org/)
