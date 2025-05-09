@@ -1,7 +1,7 @@
 
 # This is `123ojp`
 ## Skills
-`CTFer`, `Web`, `Python`, `BGPlayer`
+`Redteamer`, `Web`, `Python`, `BGPlayer`
 
 ## Speech
 - From Spoofing to Tunneling: New Red Team's Networking Techniques for Initial Access and Evasion  
