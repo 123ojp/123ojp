@@ -4,7 +4,7 @@
 `Redteamer`, `Web`, `Python`, `BGPlayer`
 
 ## Speech
-- From Spoofing to Tunneling: New Red Team's Networking Techniques for Initial Access and Evasion  
+- (Upcoming) From Spoofing to Tunneling: New Red Team's Networking Techniques for Initial Access and Evasion  
   - [Black Hat USA 2025](https://www.blackhat.com/us-25/briefings/schedule/#from-spoofing-to-tunneling-new-red-teams-networking-techniques-for-initial-access-and-evasion-44678)
 
 ## BGP
