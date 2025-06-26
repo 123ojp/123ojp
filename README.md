@@ -19,6 +19,9 @@
   - CVE-2023-35971
     - CVSSv3: 8.8
     - 💰 $1,200
+- Zero Day Initiative
+  - CVE-2025-6443
+    - CVSSv3: 7.2	
 
 ## Links
 - [Cybersecurity Slides](https://slides.foxo.tw/)
