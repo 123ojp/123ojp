@@ -4,11 +4,15 @@
 `Redteamer`, `Web`, `Python`, `BGPlayer`
 
 ## Talks
-- From Spoofing to Tunneling: New Red Team's Networking Techniques for Initial Access and Evasion  
+### From Spoofing to Tunneling: New Red Team's Networking Techniques for Initial Access and Evasion
+- Slides
     - [Black Hat USA 2025 Briefing](https://www.blackhat.com/us-25/briefings/schedule/#from-spoofing-to-tunneling-new-red-teams-networking-techniques-for-initial-access-and-evasion-44678)
     - [DEF CON 33 Main Stage](https://defcon.org/html/defcon-33/dc-33-speakers.html#content_60316)
     - [HITCON 2025](https://hitcon.org/2025/zh-TW/agenda/4deb724d-dfd5-4fd1-b736-06fc17eac162/)
-
+    - [BSides Vancouver Island 2025](https://www.bsidesvi.com/shu-hao-tung)
+- Videos
+    - [DEF CON 33 Main Stage](https://www.youtube.com/watch?v=mdFRLCnACJM) (English)
+    - [HITCON 2025](https://www.youtube.com/watch?v=dZ8cil9aBE0) (中文)
 ## Bug Bounty & CVE
 - [Bugcrowd](https://bugcrowd.com/123ojp)
   - CVE-2023-35971
